@@ -1,0 +1,4 @@
+# # Q1. Explain the key features of Python that make it a popular choice for programming
+
+# Answer: .
+Python is a beginner-friendly programming language with a simple, readable syntax. It is interpretable, dynamically typed, versatile, and multi-purpose, supporting various programming paradigms. Python has a vast standard library, third-party modules, cross-platform compatibility, strong community support, and easy integration with other languages and technologies. Its simplicity and powerful features enable rapid development and prototyping, making it a popular choice for various programming tasks. It also supports various operating systems, including Windows, macOS, and Linux.
